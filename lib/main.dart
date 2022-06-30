@@ -34,7 +34,7 @@ void main() {
                     'Tupo Site',
                     style: TextStyle(fontSize: 20, color: Colors.blue),
                   ),
-                  Tex(
+                  Text(
                     'Tupo Site',
                     style: TextStyle(fontSize: 20, color: Colors.blue),
                   ),
