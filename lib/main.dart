@@ -28,6 +28,7 @@ void main() {
                 ],
               ),
             ),
+            Text('Kata simu', style: TextStyle(fontSize: 70, color: Colors.red),)
           ],
         ),
       ),
