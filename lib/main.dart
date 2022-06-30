@@ -10,7 +10,7 @@ void main() {
           fontWeight: FontWeight.w800,
         ),
       ),
-      title: Text(
+      title: Tet(
         'Karon',
       ),
     ),
