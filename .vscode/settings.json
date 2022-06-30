@@ -1,6 +1,0 @@
-{
-    "git.autofetchPeriod": 10,
-    "git.allowForcePush": true,
-    "git.autofetch": true,
-    "git.enableSmartCommit": true
-}
