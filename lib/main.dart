@@ -17,18 +17,21 @@ void main() {
                     'Tupo Site',
                     style: TextStyle(fontSize: 20, color: Colors.blue),
                   ),
-                   Text(
+                  Text(
                     'Tupo Site',
                     style: TextStyle(fontSize: 20, color: Colors.blue),
                   ),
-                   Text(
+                  Text(
                     'Tupo Site',
                     style: TextStyle(fontSize: 20, color: Colors.blue),
                   ),
                 ],
               ),
             ),
-            Text('Kata simu', style: TextStyle(fontSize: 70, color: Colors.red),)
+            Text(
+              'Kata simu',
+              style: TextStyle(fontSize: 70, color: Colors.red),
+            )
           ],
         ),
       ),
