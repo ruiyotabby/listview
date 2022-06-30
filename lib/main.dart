@@ -34,9 +34,11 @@ void main() {
           children: [
             Container(
               height: 200,
-              child: ListView(
-                padding: EdgeInsets.all(8),
-                children: [],
+              child: ListView.builder(
+                itemCount: widgets.length,
+                itemBuilder: (context, index) {
+                  return widgets[index];
+                },
               ),
             ),
             Text(
