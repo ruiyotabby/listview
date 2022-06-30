@@ -3,6 +3,9 @@ import 'package:flutter/material.dart';
 void main() {
   var widgets = [
     ListTile(
+      onTap: (() {
+        print('tapped');
+      }),
       leading: Text(
         'K',
         style: TextStyle(
