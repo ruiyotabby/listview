@@ -14,18 +14,6 @@ void main() {
               child: ListView(
                 padding: EdgeInsets.all(8),
                 children: [
-                  Text(
-                    'Tupo Site',
-                    style: TextStyle(fontSize: 20, color: Colors.blue),
-                  ),
-                  Text(
-                    'Tupo Site',
-                    style: TextStyle(fontSize: 20, color: Colors.blue),
-                  ),
-                  Text(
-                    'Tupo Site',
-                    style: TextStyle(fontSize: 20, color: Colors.blue),
-                  ),
                 ],
               ),
             ),
