@@ -13,6 +13,14 @@ void main() {
       title: Text(
         'Karon',
       ),
+      subtitle: Text('Tuko site'),
+      trailing: Text(
+        'Kata simu',
+        style: TextStyle(
+          fontSize: 15,
+          fontWeight: FontWeight.w500,
+        ),
+      ),
     ),
   ];
 
