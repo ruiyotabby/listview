@@ -10,7 +10,7 @@ void main() {
         body: Column(
           children: [
             Container(
-              height: 300,
+              height: 100,
               child: ListView(
                 padding: EdgeInsets.all(8),
                 children: [
