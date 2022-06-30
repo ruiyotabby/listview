@@ -11,7 +11,14 @@ void main() {
           children: [
             Container(
               height: 300,
-              child: ListView(children: [Text('Tupo Site', style: TextStyle(),)],),
+              child: ListView(
+                children: [
+                  Text(
+                    'Tupo Site',
+                    style: TextStyle(fontSize: 20, color: Colors.blue),
+                  )
+                ],
+              ),
             ),
           ],
         ),
