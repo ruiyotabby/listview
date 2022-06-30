@@ -7,7 +7,9 @@ void main() {
         appBar: AppBar(
           title: Text('Listview in Flutter'),
         ),
-        body: Column(children: [],),
+        body: Column(
+          children: [],
+        ),
       ),
     ),
   );
